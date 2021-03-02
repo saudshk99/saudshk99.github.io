@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+}
+.header{
+     height: 50px;
+     display: inline;
+     margin-top: 20px;
+}
+.header1{
+    height: 50px;
+    width: 100%;
+    display:flex;
+    justify-content: space-evenly;
+    
+}
